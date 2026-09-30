@@ -1,3 +1,4 @@
+```python
 "ano": (
     "TARGET FIELD: YEAR.\n"
     "Extract exclusively the handwritten digits inside the field, "
@@ -10,4 +11,5 @@
     "Ignore lines, borders, and printed numbers on the form.\n"
     "If the complete value is empty or cannot be read reliably, "
     "return VAZIO."
-),
+)
+```
