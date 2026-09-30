@@ -1,4 +1,5 @@
-"total_recebido": (
+```python
+"total_received": (
     "TARGET FIELD: TOTAL RECEIVED.\n"
     "Extract exclusively the handwritten numeric sequence inside the field.\n"
     "Read from left to right and transcribe each clearly visible handwritten "
@@ -14,4 +15,5 @@
     "A handwritten zero is a valid value; an empty field must not be converted to zero.\n"
     "Do not return a partial number. If the complete value cannot be identified "
     "from the visual evidence, return VAZIO."
-),
+)
+```
