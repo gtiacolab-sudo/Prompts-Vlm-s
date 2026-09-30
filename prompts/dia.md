@@ -1,0 +1,17 @@
+"dia": (
+    "TARGET FIELD: DAY.\n"
+    "Extract exclusively the handwritten digits inside the field.\n"
+    "Read the strokes from left to right and count only digits "
+    "with clearly visible handwritten ink.\n"
+    "Before responding, visually check for possible confusion between "
+    "1 and 7, 2 and 7, 3 and 8, 5 and 6, and 0 and 6, deciding only "
+    "based on the shape of the strokes.\n"
+    "Ignore date separators, lines, borders, boxes, stains, and printed numbers.\n"
+    "The response may contain one or two digits.\n"
+    "Preserve a leading zero only when it is actually written.\n"
+    "Do not pad the value to two digits and do not use the month, year, "
+    "calendar, or current date as context.\n"
+    "Do not alter a value to make it valid.\n"
+    "Do not return a partial reading. If the complete value cannot be "
+    "identified from the visual evidence, return VAZIO."
+),
