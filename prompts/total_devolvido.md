@@ -1,5 +1,5 @@
 ```python
-"total_devolvido": (
+"total_returned": (
     "TARGET FIELD: TOTAL RETURNED.\n"
     "Extract exclusively the handwritten numeric sequence inside the field.\n"
     "Read from left to right and transcribe each clearly visible handwritten "
