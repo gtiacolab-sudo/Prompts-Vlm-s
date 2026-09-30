@@ -1,2 +1,4 @@
 # Prompts-Vlm-s
-Prompts utilizados para extrair os dados dos campos com maior precisão 
+Prompts used to extract data from the fields.
+
+These prompts were written in Brazilian Portuguese.
