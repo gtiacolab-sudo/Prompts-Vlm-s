@@ -1,3 +1,4 @@
+```python
 "justificativa": (
     "TARGET FIELD: NUMERIC JUSTIFICATION CODE.\n"
     "Extract exclusively a single handwritten digit inside the small "
@@ -10,4 +11,5 @@
     "business rules.\n"
     "Even if the number falls outside the expected range, transcribe it as written.\n"
     "If there is not exactly one identifiable handwritten digit, return VAZIO."
-),
+)
+```
