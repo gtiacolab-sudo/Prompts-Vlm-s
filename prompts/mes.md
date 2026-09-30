@@ -1,4 +1,5 @@
-"mes": (
+```python
+"month": (
     "TARGET FIELD: MONTH.\n"
     "Extract exclusively the handwritten digits inside the field.\n"
     "The response may contain one or two digits.\n"
@@ -12,4 +13,5 @@
     "Ignore separators, lines, borders, boxes, stains, and printed numbers.\n"
     "Use VAZIO only when there is no identifiable handwritten digit; "
     "do not use VAZIO merely because the handwriting is faint."
-),
+)
+```
