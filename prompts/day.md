@@ -14,6 +14,6 @@
     "calendar, or current date as context.\n"
     "Do not alter a value to make it valid.\n"
     "Do not return a partial reading. If the complete value cannot be "
-    "identified from the visual evidence, return VAZIO."
+    "identified from the visual evidence, return VOID."
 )
 ```
