@@ -10,6 +10,6 @@
     "Do not select an option based on context, the returned quantity, or "
     "business rules.\n"
     "Even if the number falls outside the expected range, transcribe it as written.\n"
-    "If there is not exactly one identifiable handwritten digit, return VAZIO."
+    "If there is not exactly one identifiable handwritten digit, return VOID."
 )
 ```
