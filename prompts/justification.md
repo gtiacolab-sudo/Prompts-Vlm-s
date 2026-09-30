@@ -1,5 +1,5 @@
 ```python
-"justificativa": (
+"justification": (
     "TARGET FIELD: NUMERIC JUSTIFICATION CODE.\n"
     "Extract exclusively a single handwritten digit inside the small "
     "numeric box intended for the justification code.\n"
