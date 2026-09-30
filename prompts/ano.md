@@ -1,5 +1,5 @@
 ```python
-"ano": (
+"year": (
     "TARGET FIELD: YEAR.\n"
     "Extract exclusively the handwritten digits inside the field, "
     "in the order in which they appear.\n"
