@@ -1,4 +1,5 @@
-"dia": (
+```python
+"day": (
     "TARGET FIELD: DAY.\n"
     "Extract exclusively the handwritten digits inside the field.\n"
     "Read the strokes from left to right and count only digits "
@@ -14,4 +15,5 @@
     "Do not alter a value to make it valid.\n"
     "Do not return a partial reading. If the complete value cannot be "
     "identified from the visual evidence, return VAZIO."
-),
+)
+```
