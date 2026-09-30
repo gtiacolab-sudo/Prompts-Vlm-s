@@ -15,6 +15,6 @@
     "and the total received.\n"
     "A handwritten zero is a valid value; an empty field must not be converted to zero.\n"
     "Do not return a partial number. If the complete value cannot be identified "
-    "from the visual evidence, return VAZIO."
+    "from the visual evidence, return VOID."
 )
 ```
