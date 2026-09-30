@@ -10,6 +10,6 @@
     "Do not alter a future or out-of-range year to make it valid.\n"
     "Ignore lines, borders, and printed numbers on the form.\n"
     "If the complete value is empty or cannot be read reliably, "
-    "return VAZIO."
+    "return VOID."
 )
 ```
