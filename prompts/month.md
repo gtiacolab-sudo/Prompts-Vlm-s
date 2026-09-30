@@ -12,6 +12,6 @@
     "Even if the value falls outside the range 1 to 12, transcribe exactly what is written.\n"
     "Ignore separators, lines, borders, boxes, stains, and printed numbers.\n"
     "Use VAZIO only when there is no identifiable handwritten digit; "
-    "do not use VAZIO merely because the handwriting is faint."
+    "do not use VOID merely because the handwriting is faint."
 )
 ```
